@@ -1,0 +1,104 @@
+/* Color Scheme */
+
+$Ashen: #1c1d1e;
+$Gray: #1a1a1a;
+$Metal: #09090b;
+$Neutral: #0a0a0a;
+$Stone: #0c0a09;
+$Red: #450a0a;
+$Orange: #431407;
+$Amber: #451a03;
+$Yellow: #423306;
+$Lemon: #1a2e05;
+$Green: #053519;
+$Spring: #022c22;
+$Cobalt: #042f2e;
+$Cyan: #124558;
+$Sky: #082f49;
+$Blue: #182655;
+$Indigo: #1e1b4b;
+$Violet: #2e1065;
+$Purple: #3b0764;
+$Magenta: #4a044e;
+$Pink: #500724;
+$Rose: #4c0519;
+
+/* Color Set */
+
+$colorset: (
+    'blue':#003670,
+    'sky': #041399,
+    'indigo': #2d066d,
+    'purple': #321d57,
+    'magenta': #441942,
+    'pink': #871047,
+    'red': #6f131c,
+    'mandarine': #80260b,
+    'orange': #813b01,
+    'yellow': #775900,
+    'lemon': #333e0d,
+    'green': #0c3415,
+    'teal': #0c4e3a,
+    'cyan': #073239,
+    'gray': #626e79
+);
+
+$newcolorset: (
+    'blue':#007bff,
+    'sky': #3346F9,
+    'indigo': #6610f2,
+    'purple': #6f42c1,
+    'magenta': #AC40A7,
+    'pink': #e83e8c,
+    'red': #dc3545,
+    'mandarine': #ED5A2D,
+    'orange': #fd7e14,
+    'yellow': #ffc107,
+    'lemon': #94B426,
+    'green': #28a745,
+    'teal': #20c997,
+    'cyan': #17a2b8,
+    'gray': #adb5bd
+);
+
+$lastcolorset: (
+    'blue':#003670,
+    'sky': #041399,
+    'indigo': #2d066d,
+    'purple': #321d57,
+    'magenta': #441942,
+    'pink': #871047,
+    'red': #6f131c,
+    'mandarine': #80260b,
+    'orange': #813b01,
+    'yellow': #775900,
+    'lemon': #333e0d,
+    'green': #0c3415,
+    'teal': #0c4e3a,
+    'cyan': #073239,
+    'gray': #626e79
+);
+
+$materialpalette: (
+    'red': rgb(244, 67, 54),
+    'pink': rgb(233, 30, 99),
+    'purple': rgb(156, 39, 176),
+    'violet': rgb(103, 58, 183),
+    'indigo': rgb(63, 81, 181),
+    'blue': rgb(33, 150, 243),
+    'sky': rgb(3, 169, 244),
+    'cyan': rgb(0, 188, 212),
+    'teal': rgb(0, 150, 136),
+    'green': rgb(76, 175, 80),
+    'spring': rgb(139, 195, 74),
+    'lime': rgb(205, 220, 57),
+    'yellow': rgb(255, 235, 59),
+    'amber': rgb(255, 193, 7),
+    'mandarine': rgb(255, 152, 0),
+    'orange': rgb(255, 87, 34),
+    'brown': rgb(188,86,53),
+    'bark': rgb(121, 85, 72),
+    'grey': rgb(158, 158, 158),
+    'stone': rgb(96, 125, 139)
+)
+
